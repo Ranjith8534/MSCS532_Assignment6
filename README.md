@@ -20,5 +20,5 @@ Implemented:
 
 ### How to Run
 
-python part1_selection.py
-python part2_datastructures.py
+- python part1_selection.py
+- python part2_datastructures.py
