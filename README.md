@@ -9,7 +9,6 @@ Implemented:
 - Randomized: Faster in practice
 - Deterministic: Guaranteed performance
 
----
 
 ## Part 2: Data Structures
 Implemented:
@@ -18,7 +17,6 @@ Implemented:
 - Queue
 - Linked List
 
----
 
 ## How to Run
 
