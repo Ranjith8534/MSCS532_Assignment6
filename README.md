@@ -1,16 +1,16 @@
 # Medians and Order Statistics & Data Structures
 
-## Part 1: Selection Algorithms
+### Part 1: Selection Algorithms
 Implemented:
 - Randomized Quickselect (Expected O(n))
 - Deterministic Median of Medians (Worst-case O(n))
 
-### Key Insight
+#### Key Insight
 - Randomized: Faster in practice
 - Deterministic: Guaranteed performance
 
 
-## Part 2: Data Structures
+### Part 2: Data Structures
 Implemented:
 - Array
 - Stack
@@ -18,7 +18,7 @@ Implemented:
 - Linked List
 
 
-## How to Run
+### How to Run
 
 ```bash
 python part1_selection.py
