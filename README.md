@@ -20,6 +20,5 @@ Implemented:
 
 ### How to Run
 
-```bash
 python part1_selection.py
 python part2_datastructures.py
